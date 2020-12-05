@@ -35,8 +35,6 @@ function draw() {
   box3.display();
   Dustbin1.display();
   Paper1.display();
-  fill("red");
-  text("I am sorry that I didn't submit it through Github. I forgot how to put .png files into github", 200,100);
  console.log(Paper1.body.position.y);
 }
 
